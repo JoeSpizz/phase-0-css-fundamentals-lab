@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+head,body {text-align:center;}
+
+nav > a {padding: 0px 10px 0px 10px;
+background-color: lightcoral;}
+
+section#featured-property p {width: 800px;
+   margin: auto;
+   padding: 0px 0px 10px 0px;
+}
+
+section#details div {magin:auto;
+  float:left;
+    background-color: red;
+    width:25%;
+}
